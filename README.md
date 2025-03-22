@@ -1,2 +1,2 @@
 # Face-Recognition
-Bu benim Bitirme Projemdir
+Bu benim Bitirme Projemdir ve Pycharm Kullanılarak Yapılmıştır
